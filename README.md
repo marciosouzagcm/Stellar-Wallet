@@ -12,10 +12,14 @@ Um aplicativo de linha de comando (CLI) que permite criar e verificar carteiras 
 
 ### Instalando Dependências
 Para instalar as dependências necessárias, execute o seguinte comando no terminal:
+
+
 ```bash
 npm install stellar-sdk bip39
 
+
 Como Executar
+
 Após instalar as dependências, execute o
 
 node nome-do-arquivo.js
