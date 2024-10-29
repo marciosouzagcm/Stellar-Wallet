@@ -24,7 +24,7 @@ Após instalar as dependências, execute o
 
 node nome-do-arquivo.js
 
-## Exemplo de execução:
+Exemplo de execução:
 
 Escolha uma opção:
 1 - Criar nova carteira
