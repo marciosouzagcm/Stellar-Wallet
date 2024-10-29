@@ -24,15 +24,7 @@ Após instalar as dependências, execute o
 
 node nome-do-arquivo.js
 
-Verificar um cartão
-Execute o código e escolha a opção2para verificar uma
-Insira o endereço público (chave pública) d
-O programa exibirá o saldo em XLM da carteira fornecida, caso esteja ativado na rede Stellar.
-Observações Imp
-Armazene a Chave Secreta com Cuidado :
-Carteira Ativa : Para
-Rede Principal (Mainnet) :
-Exemplo de Execução
+## Exemplo de execução:
 
 Escolha uma opção:
 1 - Criar nova carteira
@@ -46,3 +38,16 @@ Nome completo vinculado à carteira: João Silva
 Chave pública (para receber XLM): GXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Chave secreta (guarde em segurança): SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Frase mnemônica (guarde em segurança): example example example example example example example example example example example example
+
+
+Escolha uma opção:
+1 - Criar nova carteira
+2 - Verificar carteira existente
+Digite o número da opção: 2
+
+Informe o endereço público da carteira Stellar para verificação: GXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Carteira Stellar verificada com sucesso:
+Endereço público (Stellar Address): GXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Saldo em Stellar (XLM): 100.0000000
+
